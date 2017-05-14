@@ -1,7 +1,7 @@
 package com.i2017.dataStructure;
 
 public class Test {
-	public static void main(String args[]){
+	public static void main(String args[]) {
 		LinkedList list = new LinkedList();
 		System.out.println(list);
 		list.add(1);
