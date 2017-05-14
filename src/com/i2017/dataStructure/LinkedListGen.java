@@ -1,4 +1,4 @@
-package com.i2017.algorithm;
+package com.i2017.dataStructure;
 
 public class LinkedListGen<T> {
 	
